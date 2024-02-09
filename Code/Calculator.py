@@ -53,8 +53,8 @@ def equals():
 def clear():
 
     global equation_text
-    equation_label.set("") #setta il label sullo schermo a vuoto
-    equation_text = "" #azzera la variabile globale
+    equation_label.set("Calculator") #setta il label sullo schermo a vuoto
+    equation_text = "Calculator" #azzera la variabile globale
 
 # La variabile window crea un oggetto di tipo Tk, che rappresenta la finestra principale del programma. Il metodo title imposta il titolo della finestra, 
 # mentre il metodo geometry imposta le dimensioni della finestra.
