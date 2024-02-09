@@ -17,3 +17,7 @@ The main steps of developing a calculator with tkinter are:
 - Defining the global variables and functions that will store and manipulate the values entered by the user
 - Binding the buttons to the corresponding functions that will perform the calculations and display the results
 - Running the main loop of the tkinter application
+
+
+
+#Author Xiao Li Savio Feng
